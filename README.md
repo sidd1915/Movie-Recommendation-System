@@ -11,9 +11,19 @@ Installation
 6. Access the application in your web browser at http://localhost:8501.
 
 Technologies Used :
-Python
-Machine Learning Libraries
-Streamlit
+Python,
+Machine Learning Libraries,
+Streamlit.
+
+USAGE : 
+
+Type it in your movie or select from the drop-down:
+![Screenshot (146)](https://github.com/sidd1915/Movie-Recommendation-System/assets/115687191/70ace903-db24-49ac-a996-9bf466058014)
+
+Click the button and you would have your recommendations !
+![Screenshot (147)](https://github.com/sidd1915/Movie-Recommendation-System/assets/115687191/37ba6434-4ace-486c-af8a-813d39bf4b92)
+
+
 
 Contributions are welcome! If you find any issues or want to enhance the system, please submit a pull request. For major changes, please open an issue first to discuss the proposed changes.
 
